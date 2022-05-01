@@ -1,5 +1,5 @@
 # Battle.net Login Clipboard
-Holds all your passwords in a file and copies the password then the email into your clipboard. This is then accessible through your clipboard history.
+Holds all your passwords in a file and copies the password then the email into your clipboard. This is then accessible through your clipboard history. (WINDOWS KEY + V)
 
 ## Python 3.10
 1. Install dependencies (requirements.txt)
